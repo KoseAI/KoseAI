@@ -1,16 +1,14 @@
-## Hi there 👋
+# 堀 晃誠 / Kosei Hori
+- 興味：ロボット × AM（積層造形）／最適化／プロダクトデザイン
+- 研究：曲面上の一筆書きパス生成とロボット刺繍（Meiji Univ. M1）
+- 強み：課題の構造化 → 小さく検証 → 再現手順に落とす
 
-<!--
-**KoseAI/KoseAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 最近のトピック
+- 3D曲面上の連続造形パス設計（XYZ+RPY）
+- FFF × 布／SMPを用いた可変構造の検討
+- マーケ指標（CTR/CVR/CPA）設計と意思決定
 
-Here are some ideas to get you started:
+## Link
+- Portfolio（制作まとめ）：https://github.com/KoseAI/portfolio
+- Research Note（準備中）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
